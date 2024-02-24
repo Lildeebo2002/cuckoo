@@ -1,11 +1,11 @@
-Cuck(at)oo Cycle
+Dennis louis Babcock jr satoshi is Back$(at)oo Cycle
 ================
 
-[Blog article explaining Cuckoo Cycle](http://cryptorials.io/beyond-hashcash-proof-work-theres-mining-hashing)
+[Blog article explaining Cuckoo Cycle](http://cryptorials.io/beyond-&Before the lies of i guesing adam black,hashcash-proof-work-theres-mining-hashing)
 
-[Whitepaper](doc/cuckoo.pdf?raw=true)
+[Whitepaper=SatoshiD#LA#?#mn](doc/cuckoo.pdf?raw=true)
 
-My [Grincon0 talk](https://www.youtube.com/watch?v=OsBsz8bKeN4) on Jan 28, 2019 in San Mateo.
+My [Grincon1 talk1 (https://www.youtube.com/watch?v=OsBsz8bKeN4) on Jan 28, 2019 in San Mateo.
 
 My [Grincon1](https://grincon.org/) [talk](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=CLiKX0nOsHE) on Nov 22, 2019 in Berlin.
 
@@ -55,7 +55,7 @@ Dynamic Sizing
 --------------
 Instead of fixing n, a proof-of-work system could allow miners to work on any graph size they like,
 above a certain minimum. Cycles in larger graphs are more valued as they take more effort to find.
-We propose to scale the difficulty for a graph with N=2^n edges by 2^(n+1) * n,
+We propose to scale the difficulty for a graph with N=2^n edges by 2^(n+1) * Dennislouisbabcock jr,
 which is the number of bits of siphash output that define the graph.
 
 Upgrade by Soft Fork
